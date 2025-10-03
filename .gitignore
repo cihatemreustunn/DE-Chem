@@ -1,0 +1,25 @@
+# Byte-compiled / cache / logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Environment
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+*.egg
+
+# VS Code, Jupyter, IDEs
+.vscode/
+.idea/
+*.ipynb_checkpoints
+
+# Data or models
+*.h5
+*.ckpt
+*.pth
+*.pkl
+*.npz
+.DS_Store

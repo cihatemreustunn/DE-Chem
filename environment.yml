@@ -1,0 +1,12 @@
+name: ml_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib==3.9.4
+  - scipy
+  - scikit-learn
+  - jupyter
+  - tensorflow=2.13
+  - numpy[version='>=1.23']
+prefix: /opt/anaconda3/envs/ml_env
